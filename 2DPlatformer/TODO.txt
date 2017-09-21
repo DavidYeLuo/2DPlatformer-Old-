@@ -1,0 +1,12 @@
+<GameController>
+[] Add a list of platforms
+[] Add player reference
+[] Add SpawnManager2 reference
+[] Add a function whenever the player changes color,
+   The List of platforms will switch(one is untouchable, and one is not.)
+   (Might cause some performance issue)
+   If this works then PlayerDetector file isn't needed
+[] Compare strings to see whether which platform will switch
+
+<SpawnManager2>
+[] Implement add list of platforms
